@@ -1,0 +1,27 @@
+.nav {
+    background-color: #ebecef; /* bg-gray-800 */
+    padding: 1rem; /* p-4 */
+  }
+  
+  .navList {
+    display: flex; /* flex */
+    gap: 1rem; /* gap-4 */
+  }
+  
+  .navLink {
+    font-weight: bold; /* font-bold */
+    font-size: 1.125rem; /* text-lg */
+    color: #270d77; /* text-violet-600 */
+  }
+  
+  .navLink:hover {
+    color: #0a0024; /* hover:text-violet-400 */
+  }
+  
+  .navLinkWhite {
+    color: #ffffff; /* text-white */
+  }
+  
+  .navLinkWhite:hover {
+    color: #a0aec0; /* hover:text-gray-400 */
+  }
